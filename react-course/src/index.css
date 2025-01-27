@@ -1,28 +1,3 @@
-.button {
-  
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* .card  {
   border: 1px solid black;
@@ -38,7 +13,7 @@
 .card .card-image {
   max-width: 80%;
   /* height: auto; */
-  border-radius: 100%;
+  /* border-radius: 100%;
 }
 
 .card .card-title {

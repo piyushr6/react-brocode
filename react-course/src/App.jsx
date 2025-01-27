@@ -1,6 +1,6 @@
 
 //STYLING COMPONENTS CSS IN 3 WAYS - EXTERNAL, MODULES, INLINE  
-import Button from './Button.jsx';
+import Button from './Button/Button.jsx';
 
 function App() {
 
