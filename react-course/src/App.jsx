@@ -1,20 +1,42 @@
-import Student from './Student.jsx';
+import List from './List.jsx'
 
 function App() {
 
   return (
-    <>
-      <Student name="Spongebob" age={18} isStudent={true} />
-      <Student name="Rick" age={20} isStudent={false} />
-      <Student name="Dazel" age={22} isStudent={true} />
-      <Student name="ABC" age={21} isStudent={false} />
-      <Student name="XYZ" age={23} isStudent={false} />
-      <Student />
-    </>
+    <List />
   );
 }
 
 export default App
+
+
+// import UserGreeting from './UserGreeting.jsx'
+
+// function App() {
+//   return (
+//     <>
+//       <UserGreeting isLoggedIn={true} username="piyushr6" />
+//     </>
+//   )
+// }
+
+
+
+// import Student from './Student.jsx';
+
+// function App() {
+
+//   return (
+//     <>
+//       <Student name="Spongebob" age={18} isStudent={true} />
+//       <Student name="Rick" age={20} isStudent={false} />
+//       <Student name="Dazel" age={22} isStudent={true} />
+//       <Student name="ABC" age={21} isStudent={false} />
+//       <Student name="XYZ" age={23} isStudent={false} />
+//       <Student />
+//     </>
+//   );
+// }
 
 
 
